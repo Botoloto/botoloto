@@ -6,11 +6,7 @@ Currently studying to be a Software Engineer, I work as a Data Scientist, where 
 In addition, I have theoretical knowledge of the AWS database and have extensive experience with the configuration and administration of the SQL Server database, including data security rules with best practices that I have acquired over time. It is worth mentioning some AI/ML integrations for database interpretation and analysis, providing insights and rapid analysis.
 
 Additionally, I use Power BI to create interactive dashboards, aiming to raise relevant indicators and minimize the use of resources, applying business rules and optimizing integration with the data source from ETL flows.
-</p>
-<h3 align="left">Find me at:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enzo-botoloto-117243215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo-botoloto-117243215" height="30" width="40" /></a>
-</p>
+
 
 <h4 align="left">Hard Skills:</h4>
 <p align="left"> 
@@ -26,6 +22,12 @@ Additionally, I use Power BI to create interactive dashboards, aiming to raise r
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+</p>
+
+</p>
+<h3 align="left">Find me at:</h3>
+<p> E-mail: botoloto@hotmail.com </p> 
+<p> Linkedin: https://www.linkedin.com/in/enzo-botoloto-117243215/ </p> 
 </p>
 
 
